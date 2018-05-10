@@ -1,8 +1,11 @@
 #jj {
-  background-color: #b2b2b2;
+  background-color: #b22121;
   border: 5px solid;
   font-family: verdana;
 }
 #title {
   font-family: verane light;
+}
+body {
+  color: #680303;
 }
