@@ -7,3 +7,6 @@
 #title {
   font-family: verane light;
 }
+.background {
+   background: linear-gradient(-45deg, #680303, #b22121);
+}
